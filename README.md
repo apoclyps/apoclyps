@@ -4,18 +4,6 @@
 I enjoy learning, collaboration, and building awesome software projects!
 </p>
 
-### My Latest Talks
-
-<table border="0">
-   <tr>
-   </tr>
-   <tr>
-      <td><a href="https://docs.google.com/presentation/d/1MXCONEwc9fiu8kSaq4EPmpgdzDyduqAYhUJl3phTFks"><img src="https://www.kyleharrison.co.uk/assets/images/talks/python_graphql.png" alt="Portfolio Preview Image" height="200" width="350"></a></td>
-      <td><a href="https://arsensgym.netlify.app/">  <img src="https://www.kyleharrison.co.uk/assets/images/talks/python_micropython.png" alt="Portfolio Preview Image" height="200" width="350" align="right"></a></td>
-      <td><a href="https://arsensgym.netlify.app/">  <img src="https://www.kyleharrison.co.uk/assets/images/talks/javascript_robotics.png" alt="Portfolio Preview Image" height="200" width="350" align="right"></a></td>
-   </tr>
-</table>
-
 ---
 
 ### I build with...
@@ -127,6 +115,14 @@ I enjoy learning, collaboration, and building awesome software projects!
     <img
       src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/devto.svg"
       alt="Instagram"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCJoqM8e739CTz5NmkhEuVZg">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg"
+      alt="Youtube"
       style="vertical-align: top; margin: 4px;"
     />
   </a>
