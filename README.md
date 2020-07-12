@@ -1,11 +1,5 @@
 <h2 align="center"><strong>Hello, I'm Kyle</strong></h2>
 
-<p>
-I enjoy learning, collaboration, and building awesome software projects!
-</p>
-
----
-
 ### I build with...
 
 <p align="center">
