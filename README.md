@@ -1,8 +1,6 @@
-<h1 align="center"><strong>Hello, I'm Kyle</strong></h1>
+<img src="img/banner.gif" alt="welcome" />
 
-
-
-### I build with...
+### I build with:
 
 <p align="center">
   <img
@@ -62,7 +60,7 @@
   />
 </p>
 
-### Find me elsewhere
+### Find me online as @apoclyps
 
 <p align="center">
   <a href="https://twitter.com/apoclyps">
@@ -72,7 +70,6 @@
       style="vertical-align: top; margin: 4px;"
     />
   </a>
-
   <a href="https://www.linkedin.com/in/kyleaharrison/">
     <img
       src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg"
@@ -80,7 +77,6 @@
       style="vertical-align: top; margin: 4px;"
     />
   </a>
-
   <a href="https://stackoverflow.com/users/2083696/apoclyps">
     <img
       src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg"
@@ -88,7 +84,6 @@
       style="vertical-align: top; margin: 4px;"
     />
   </a>
-
   <a href="https://www.meetup.com/members/135086862/">
     <img
       src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/meetup.svg"
@@ -96,7 +91,6 @@
       style="vertical-align: top; margin: 4px;"
     />
   </a>
-
   <a href="https://www.instagram.com/apoclyps/">
     <img
       src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg"
@@ -104,7 +98,6 @@
       style="vertical-align: top; margin: 4px;"
     />
   </a>
-  
   <a href="https://dev.to/apoclyps">
     <img
       src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/devto.svg"
@@ -112,7 +105,6 @@
       style="vertical-align: top; margin: 4px;"
     />
   </a>
-  
   <a href="https://www.youtube.com/channel/UCJoqM8e739CTz5NmkhEuVZg">
     <img
       src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg"
@@ -120,8 +112,4 @@
       style="vertical-align: top; margin: 4px;"
     />
   </a>
-  
 </p>
-
-
-### Checkout my work 👇
