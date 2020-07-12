@@ -1,20 +1,26 @@
 # Hi, I'm Kyle
 
 <p>
-I'm extremely passionate about Software Development in all it's variations and frequently attend Tech Meetups, Conferences, User groups, & Talks to discover more about the latest development principles, guidelines, and techniques from industry experts and fellow developers. 
+I'm passionate about Software Development in all it's variations and frequently attend Tech Meetups, Conferences, User groups, & Talks to discover more about the latest development principles, guidelines, and techniques from industry experts and fellow developers. 
 
 Mostly importantly, I enjoy learning and building awesome software projects! 
 </p>
 
 ### My Latest Talks
 
-|  |  |  |
-| - | - | - |
-| <a href="https://docs.google.com/presentation/d/1MXCONEwc9fiu8kSaq4EPmpgdzDyduqAYhUJl3phTFks"><img src="https://www.kyleharrison.co.uk/assets/images/talks/python_graphql.png" alt="Portfolio Preview Image" height="200" width="350"></a>  | <a href="https://arsensgym.netlify.app/">  <img src="https://www.kyleharrison.co.uk/assets/images/talks/python_micropython.png" alt="Portfolio Preview Image" height="200" width="350" align="right"></a> | <a href="https://arsensgym.netlify.app/">  <img src="https://www.kyleharrison.co.uk/assets/images/talks/javascript_robotics.png" alt="Portfolio Preview Image" height="200" width="350" align="right"></a> |
+<table border="0">
+   <tr>
+   </tr>
+   <tr>
+      <td><a href="https://docs.google.com/presentation/d/1MXCONEwc9fiu8kSaq4EPmpgdzDyduqAYhUJl3phTFks"><img src="https://www.kyleharrison.co.uk/assets/images/talks/python_graphql.png" alt="Portfolio Preview Image" height="200" width="350"></a></td>
+      <td><a href="https://arsensgym.netlify.app/">  <img src="https://www.kyleharrison.co.uk/assets/images/talks/python_micropython.png" alt="Portfolio Preview Image" height="200" width="350" align="right"></a></td>
+      <td><a href="https://arsensgym.netlify.app/">  <img src="https://www.kyleharrison.co.uk/assets/images/talks/javascript_robotics.png" alt="Portfolio Preview Image" height="200" width="350" align="right"></a></td>
+   </tr>
+</table>
 
 ---
 
-### 🚧 I build with...
+### I build with...
 
 <p align="center">
   <img
@@ -76,7 +82,7 @@ Mostly importantly, I enjoy learning and building awesome software projects!
 
 ---
 
-### 📢 Find me elsewhere
+### Find me elsewhere
 
 <p align="center">
   <a href="https://twitter.com/apoclyps">
