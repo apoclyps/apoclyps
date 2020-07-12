@@ -1,16 +1,130 @@
-### Hi there 👋
+# Hi, I'm Kyle
 
-<!--
-**apoclyps/apoclyps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I'm extremely passionate about Software Development in all it's variations and frequently attend Tech Meetups, Conferences, User groups, & Talks to discover more about the latest development principles, guidelines, and techniques from industry experts and fellow developers. 
 
-Here are some ideas to get you started:
+Mostly importantly, I enjoy learning and building awesome software projects! 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Latest Talks
+
+|  |  |  |
+| - | - | - |
+| <a href="https://docs.google.com/presentation/d/1MXCONEwc9fiu8kSaq4EPmpgdzDyduqAYhUJl3phTFks"><img src="https://www.kyleharrison.co.uk/assets/images/talks/python_graphql.png" alt="Portfolio Preview Image" height="200" width="350"></a>  | <a href="https://arsensgym.netlify.app/">  <img src="https://www.kyleharrison.co.uk/assets/images/talks/python_micropython.png" alt="Portfolio Preview Image" height="200" width="350" align="right"></a> | <a href="https://arsensgym.netlify.app/">  <img src="https://www.kyleharrison.co.uk/assets/images/talks/javascript_robotics.png" alt="Portfolio Preview Image" height="200" width="350" align="right"></a> |
+
+---
+
+### 🚧 I build with...
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/aws.svg"
+    alt="AWS"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/chrome.svg"
+    alt="Chrome"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/dockerhub.svg"
+    alt="Dockerhub"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/jetbrains_goland.svg"
+    alt="Goland"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/js.svg"
+    alt="Javascript"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/npm.svg"
+    alt="NPM"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/python.svg"
+    alt="Python"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/raspberrypi.svg"
+    alt="Raspberry Pi"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/react.svg"
+    alt="React"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/visualstudio_code.svg"
+    alt="Visual Studio Code"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/web.svg"
+    alt="Web"
+    style="vertical-align: top; margin: 4px;"
+  />
+</p>
+
+---
+
+### 📢 Find me elsewhere
+
+<p align="center">
+  <a href="https://twitter.com/apoclyps">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg"
+      alt="Twitter"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kyleaharrison/">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg"
+      alt="LinkedIn"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+
+  <a href="https://stackoverflow.com/users/2083696/apoclyps">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg"
+      alt="Stack Overflow"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+
+  <a href="https://www.meetup.com/members/135086862/">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/meetup.svg"
+      alt="Meetup"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/apoclyps/">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg"
+      alt="Instagram"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+  
+  <a href="https://dev.to/apoclyps">
+    <img
+      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/devto.svg"
+      alt="Instagram"
+      style="vertical-align: top; margin: 4px;"
+    />
+  </a>
+  
+</p>
