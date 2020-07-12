@@ -1,4 +1,4 @@
-<img src="img/banner.gif" alt="welcome" />
+<img src="https://github.com/apoclyps/apoclyps/raw/master/img/banner.gif" alt="welcome" />
 
 ### I build with:
 
