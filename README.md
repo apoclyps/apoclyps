@@ -1,4 +1,6 @@
-<h2 align="center"><strong>Hello, I'm Kyle</strong></h2>
+<h1 align="center"><strong>Hello, I'm Kyle</strong></h1>
+
+
 
 ### I build with...
 
@@ -60,8 +62,6 @@
   />
 </p>
 
----
-
 ### Find me elsewhere
 
 <p align="center">
@@ -122,3 +122,6 @@
   </a>
   
 </p>
+
+
+### Checkout my work 👇
