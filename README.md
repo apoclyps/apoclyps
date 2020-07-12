@@ -1,9 +1,7 @@
 <h2 align="center"><strong>Hello, I'm Kyle</strong></h2>
 
 <p>
-I'm passionate about Software Development in all it's variations and frequently attend meetups, conferences, workshops, and hackathons to discover learn more about the latest development principles, guidelines, and techniques from industry experts and fellow developers. 
-
-Mostly importantly, I enjoy learning and building awesome software projects! 
+I enjoy learning, collaboration, and building awesome software projects!
 </p>
 
 ### My Latest Talks
