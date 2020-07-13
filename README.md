@@ -4,57 +4,52 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/aws.svg"
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg"
     alt="AWS"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/chrome.svg"
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/chrome.svg"
     alt="Chrome"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/dockerhub.svg"
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/dockerhub.svg"
     alt="Dockerhub"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/jetbrains_goland.svg"
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_goland.svg"
     alt="Goland"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/js.svg"
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg"
     alt="Javascript"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/npm.svg"
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg"
     alt="NPM"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/python.svg"
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg"
     alt="Python"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/raspberrypi.svg"
-    alt="Raspberry Pi"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/react.svg"
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg"
     alt="React"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/visualstudio_code.svg"
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg"
     alt="Visual Studio Code"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/web.svg"
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg"
     alt="Web"
     style="vertical-align: top; margin: 4px;"
   />
