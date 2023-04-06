@@ -4,6 +4,21 @@
 
 <p align="center">
   <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg"
+    alt="Python"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg"
+    alt="Rust"
+    style="vertical-align: top; margin: 4px;"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg"
+    alt="Go"
+    style="vertical-align: top; margin: 4px;"
+  />    
+  <img 
     src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg"
     alt="AWS"
     style="vertical-align: top; margin: 4px;"
@@ -19,40 +34,10 @@
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_goland.svg"
-    alt="Goland"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg"
-    alt="Javascript"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg"
-    alt="NPM"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg"
-    alt="Python"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg"
-    alt="React"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
     src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg"
     alt="Visual Studio Code"
     style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg"
-    alt="Web"
-    style="vertical-align: top; margin: 4px;"
-  />
+  />v  
 </p>
 
 ### Find me online as @apoclyps
@@ -86,13 +71,6 @@
       style="vertical-align: top; margin: 4px;"
     />
   </a>
-  <a href="https://www.instagram.com/apoclyps/">
-    <img
-      src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg"
-      alt="Instagram"
-      style="vertical-align: top; margin: 4px;"
-    />
-  </a>
   <a href="https://dev.to/apoclyps">
     <img
       src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/devto.svg"
@@ -100,7 +78,7 @@
       style="vertical-align: top; margin: 4px;"
     />
   </a>
-  <a href="https://www.youtube.com/channel/UCJoqM8e739CTz5NmkhEuVZg">
+  <a href="https://www.youtube.com/channel/UC8sEfUVhR9VG1_pnvHXrrQg">
     <img
       src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg"
       alt="Youtube"
