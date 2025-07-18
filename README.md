@@ -8,29 +8,14 @@
     alt="Python"
     style="vertical-align: top; margin: 4px;"
   />
-  <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg"
-    alt="Rust"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg"
-    alt="Go"
-    style="vertical-align: top; margin: 4px;"
-  />    
   <img 
     src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg"
     alt="AWS"
     style="vertical-align: top; margin: 4px;"
   />
   <img
-    src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/chrome.svg"
-    alt="Chrome"
-    style="vertical-align: top; margin: 4px;"
-  />
-  <img
     src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/dockerhub.svg"
-    alt="Dockerhub"
+    alt="Docker"
     style="vertical-align: top; margin: 4px;"
   />
   <img
